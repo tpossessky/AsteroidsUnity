@@ -7,7 +7,7 @@ Simpler in overall complexity than SpaceInvaders, but proved to have its own set
 
 ## A Note about What's Covered
 
-As I move forward in the game dev path, I'm trying not to re-write old information that I've already covered in my earlier games as a lot of it thus far has been the same. 
+As I move forward in the game dev path, I'm trying not to re-write old information that I've already covered in my earlier games as a lot of it has been very similar. Instead, I like to cover the new topics or methods I've used in each successive game. 
 
 ## Movement 
 
